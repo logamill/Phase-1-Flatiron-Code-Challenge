@@ -1,0 +1,64 @@
+{
+  "characters": [
+    {
+      "id": 1,
+      "name": "Mr. Cute",
+      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "name": "Mx. Monkey",
+      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "votes": 0
+    },
+    {
+      "id": 3,
+      "name": "Ms. Zebra",
+      "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
+      "votes": 14
+    },
+    {
+      "id": 4,
+      "name": "Dr. Lion",
+      "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+      "votes": 32
+    },
+    {
+      "id": 5,
+      "name": "Mme. Panda",
+      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+      "votes": 0
+    },
+    {
+      "name": "Dog",
+      "image": "https://centralparkpuppies.com/wp-content/uploads/2015/01/golden-retriever-dog.jpg",
+      "votes": 30,
+      "id": 6
+    },
+    {
+      "name": "penguin",
+      "image": "https://media.gq.com/photos/5d3717d1802ac200082431ff/16:9/w_2560%2Cc_limit/how-to-cool-down-your-body-in-a-heat-wave-gq.jpg",
+      "votes": 38,
+      "id": 7
+    },
+    {
+      "name": "new",
+      "image": "https://media.gq.com/photos/5d3717d1802ac200082431ff/16:9/w_2560%2Cc_limit/how-to-cool-down-your-body-in-a-heat-wave-gq.jpg",
+      "votes": 0,
+      "id": 8
+    },
+    {
+      "name": "fdklsfjlkdsjlk",
+      "image": "https://centralparkpuppies.com/wp-content/uploads/2015/01/golden-retriever-dog.jpg",
+      "votes": 0,
+      "id": 9
+    },
+    {
+      "name": "jfklsajlfj",
+      "image": "https://centralparkpuppies.com/wp-content/uploads/2015/01/golden-retriever-dog.jpg",
+      "votes": 0,
+      "id": 10
+    }
+  ]
+}
